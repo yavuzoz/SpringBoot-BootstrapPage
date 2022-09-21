@@ -16,10 +16,28 @@ public class HelloWorldController {
         return "index.html";
     }
 
-    @RequestMapping(path = "/about", method = RequestMethod.GET)
-    public String about() {
+    @RequestMapping(path = "/device", method = RequestMethod.GET)
+    public String device() {
 
-        log.info("HelloWorldController::about()");
-        return "about.html";
+        log.info("HelloWorldController::device()");
+        return "device.html";
+    }
+    @RequestMapping(path = "/components", method = RequestMethod.GET)
+    public String components() {
+
+        log.info("HelloWorldController::components()");
+        return "components.html";
+    }
+    @RequestMapping(path = "/contact", method = RequestMethod.GET)
+    public String contact() {
+
+        log.info("HelloWorldController::contact()");
+        return "contact.html";
+    }
+    @RequestMapping(path = "/form", method = RequestMethod.GET)
+    public String form() {
+
+        log.info("HelloWorldController::form()");
+        return "form.html";
     }
 }

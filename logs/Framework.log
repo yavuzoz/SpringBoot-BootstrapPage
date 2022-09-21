@@ -1,0 +1,41 @@
+2022-09-21 10:20:35,921 INFO org.springframework.boot.StartupInfoLogger [main] Starting HelloHtmlApplication using Java 17.0.4 on user-OptiPlex-9020 with PID 16474 (/home/user/IdeaProjects/HelloHTML/target/classes started by user in /home/user/IdeaProjects/HelloHTML)
+2022-09-21 10:20:35,923 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-21 10:20:36,493 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-09-21 10:20:36,499 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-21 10:20:36,499 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-09-21 10:20:36,500 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-21 10:20:36,555 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-09-21 10:20:36,555 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 603 ms
+2022-09-21 10:20:36,693 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page: class path resource [static/index.html]
+2022-09-21 10:20:36,897 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-09-21 10:20:36,910 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-21 10:20:36,919 INFO org.springframework.boot.StartupInfoLogger [main] Started HelloHtmlApplication in 1.319 seconds (JVM running for 1.921)
+2022-09-21 10:20:44,145 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-21 10:20:44,145 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-09-21 10:20:44,147 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 2 ms
+2022-09-21 10:20:44,168 INFO com.example.hellohtml.controller.HelloWorldController [http-nio-8080-exec-1] HelloWorldController::index()
+2022-09-21 10:20:44,778 INFO com.example.hellohtml.controller.HelloWorldController [http-nio-8080-exec-2] HelloWorldController::about()
+2022-09-21 20:17:32,875 INFO org.springframework.boot.StartupInfoLogger [main] Starting HelloHtmlApplication using Java 18.0.2.1 on DESKTOP-VQGH9P1 with PID 13040 (C:\All_Doc\Passerelle\SpringBoot-BootstrapPage\target\classes started by YAVUZ in C:\All_Doc\Passerelle\SpringBoot-BootstrapPage)
+2022-09-21 20:17:32,879 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-21 20:17:34,148 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-09-21 20:17:34,161 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-21 20:17:34,162 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-09-21 20:17:34,162 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-21 20:17:34,276 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-09-21 20:17:34,276 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1322 ms
+2022-09-21 20:17:34,523 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page: class path resource [static/index.html]
+2022-09-21 20:17:34,873 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-09-21 20:17:34,895 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-21 20:17:34,907 INFO org.springframework.boot.StartupInfoLogger [main] Started HelloHtmlApplication in 2.755 seconds (JVM running for 4.848)
+2022-09-21 20:18:05,533 INFO org.springframework.boot.StartupInfoLogger [main] Starting HelloHtmlApplication using Java 18.0.2.1 on DESKTOP-VQGH9P1 with PID 22760 (C:\All_Doc\Passerelle\SpringBoot-BootstrapPage\target\classes started by YAVUZ in C:\All_Doc\Passerelle\SpringBoot-BootstrapPage)
+2022-09-21 20:18:05,537 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-21 20:18:06,540 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-09-21 20:18:06,552 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-09-21 20:18:06,553 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-09-21 20:18:06,553 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-21 20:18:06,664 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-09-21 20:18:06,664 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1070 ms
+2022-09-21 20:18:06,945 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page: class path resource [static/index.html]
+2022-09-21 20:18:07,265 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-09-21 20:18:07,285 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-21 20:18:07,296 INFO org.springframework.boot.StartupInfoLogger [main] Started HelloHtmlApplication in 2.305 seconds (JVM running for 4.129)
